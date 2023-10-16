@@ -1,12 +1,12 @@
-boto3==1.26.148
-channels==3.0.5
-channels-redis==4.1.0
-Django==4.2.1
-django-allauth==0.54.0
-django-crispy-forms==2.0
-django-storages==1.13.2
-django-widget-tweaks==1.4.12
-Pillow==9.5.0
-psycopg2==2.9.6
-razorpay==1.3.0
-redis==4.5.5
+pip install boto3==1.26.148
+pip install channels==3.0.5
+pip install channels-redis==4.1.0
+pip install Django==4.2.1
+pip install django-allauth==0.54.0
+pip install django-crispy-forms==2.0
+pip install django-storages==1.13.2
+pip install django-widget-tweaks==1.4.12
+pip install Pillow==9.5.0
+pip install psycopg2==2.9.6
+pip install razorpay==1.3.0
+pip install redis==4.5.5
