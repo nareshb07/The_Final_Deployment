@@ -1,12 +1,51 @@
-pip install boto3==1.26.148
-pip install channels==3.0.5
-pip install channels-redis==4.1.0
-pip install Django==4.2.1
-pip install django-allauth==0.54.0
-pip install django-crispy-forms==2.0
-pip install django-storages==1.13.2
-pip install django-widget-tweaks==1.4.12
-pip install Pillow==9.5.0
-pip install psycopg2==2.9.6
-pip install razorpay==1.3.0
-pip install redis==4.5.5
+asgiref==3.7.2
+async-timeout==4.0.3
+attrs==23.1.0
+autobahn==23.6.2
+Automat==22.10.0
+boto3
+botocore==1.31.72
+certifi==2023.7.22
+cffi==1.16.0
+channels==3.0.4
+channels-redis==4.1.0
+charset-normalizer==3.3.1
+constantly==15.1.0
+cryptography==41.0.5
+daphne==3.0.2
+defusedxml==0.7.1
+Django==4.2.1
+django-allauth==0.54.0
+django-crispy-forms==2.0
+django-storages==1.13.2
+django-widget-tweaks==1.4.12
+hyperlink==21.0.0
+idna==3.4
+incremental==22.10.0
+jmespath==1.0.1
+msgpack==1.0.7
+oauthlib==3.2.2
+Pillow==9.5.0
+psycopg2==2.9.6
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+PyJWT==2.8.0
+pyOpenSSL==23.3.0
+python-dateutil==2.8.2
+python3-openid==3.2.0
+razorpay==1.3.0
+redis==4.5.5
+requests==2.31.0
+requests-oauthlib==1.3.1
+s3transfer==0.7.0
+service-identity==23.1.0
+six==1.16.0
+sqlparse==0.4.4
+Twisted==23.8.0
+twisted-iocpsupport==1.0.4
+txaio==23.1.1
+typing_extensions==4.8.0
+tzdata==2023.3
+urllib3==2.0.7
+zope.interface==6.1
