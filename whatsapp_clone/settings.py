@@ -114,10 +114,10 @@ DATABASES = {
 
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
        
-        'NAME': 'whatsppv2',
+        'NAME': 'database1',
         'USER': 'Naresh',
         'PASSWORD': 'Naresh1234',
-        'HOST': 'whatsppv2.c9vjbjb5v0wj.us-east-1.rds.amazonaws.com',
+        'HOST': 'database1.cgzt4westmuy.ap-south-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
