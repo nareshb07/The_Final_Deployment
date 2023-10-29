@@ -113,10 +113,10 @@ DATABASES = {
 
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
        
-        'NAME': 'whatspp_v2',
+        'NAME': 'whatsppv2',
         'USER': 'Naresh',
-        'PASSWORD': '1243',
-        'HOST': 'localhost',
+        'PASSWORD': 'Naresh1234',
+        'HOST': 'whatsppv2.c9vjbjb5v0wj.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
